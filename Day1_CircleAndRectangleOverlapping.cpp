@@ -1,3 +1,7 @@
+#include <iostream>
+#include <vector>
+#include <bits/stdc++.h>
+
 class Solution {
 public:
     int closest_x(int xCenter, int x1, int x2){
